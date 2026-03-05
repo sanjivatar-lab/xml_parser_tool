@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+xmlparser_cache.db
+analysis_output.json
+*.db
+.claude/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+    <command>
+        <name>biner_remove</name>
+        <impl-class>sa.gov.pension.business.command.BenificiaryPayout</impl-class>
+    </command>
+    <command>
+        <name>benificiary_remove</name>
+        <impl-class>sa.gov.pension.business.command.BenificiaryRemove</impl-class>
+    </command>
+</commands>
